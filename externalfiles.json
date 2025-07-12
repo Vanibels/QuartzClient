@@ -1,0 +1,10 @@
+{
+  "extfiles": [
+    {
+      "path": "Quartz Client.jar",
+      "downloadURL": "https://github.com/Vanibels/QuartzClient/raw/refs/heads/master/Quartz%20Client.jar",
+      "sha1": "9aa62e6529039a783f579d3825f31027a960041d",
+      "size": 42317839
+    }
+  ]
+}
